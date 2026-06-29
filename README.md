@@ -13,4 +13,4 @@ A totally free and open source SMPS that may be dangerous
 - **12V 1A Auxilliary PSU** with Fan header and direct out
 
 
-## A rendered PCB view is on [eletino.de](https://eletino.de/electronics/PSU/index.html]
+## A rendered PCB view is on [eletino.de](https://eletino.de/electronics/PSU/index.html)
