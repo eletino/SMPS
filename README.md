@@ -12,5 +12,6 @@ A totally free and open source SMPS that may be dangerous
 - Upgrade Path for a **PFC**
 - **12V 1A Auxilliary PSU** with Fan header and direct out
 
+#### Made with EASYEDA
 
-## A rendered PCB view is on [eletino.de](https://eletino.de/electronics/PSU/index.html)
+##### A rendered PCB view is on [eletino.de](https://eletino.de/electronics/PSU/index.html)
