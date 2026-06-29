@@ -11,3 +11,6 @@ A totally free and open source SMPS that may be dangerous
 - **ETD59** Transformer Core
 - Upgrade Path for a **PFC**
 - **12V 1A Auxilliary PSU** with Fan header and direct out
+
+
+## A rendered PCB view is on [eletino.de](https://eletino.de/electronics/PSU/index.html]
