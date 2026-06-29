@@ -14,4 +14,6 @@ A totally free and open source SMPS that may be dangerous
 
 #### Made with EASYEDA
 
+ I have added a lot of experimental boards. The main ones are: **AUX PSU**; **Board1_alt_mosfets_NCF_TR**; **LV**; **IN**; **SWITCH**;
+
 ##### A rendered PCB view is on [eletino.de](https://eletino.de/electronics/PSU/index.html)
